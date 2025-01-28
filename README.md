@@ -3,6 +3,7 @@ The 'Bank Loan Default Prediction' project aims to create models predicting loan
 
 **Data_set:**
 https://bitbucket.org/parisha-homework-acs560/data-analytics-using-r/src/master/
+
 [Bank_Analysis 1.odp](https://github.com/user-attachments/files/18566696/Bank_Analysis.1.odp)
 
 
