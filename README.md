@@ -22,5 +22,4 @@ https://bitbucket.org/parisha-homework-acs560/data-analytics-using-r/src/master/
 ![Slide15](https://github.com/user-attachments/assets/d2a30d2d-5460-4643-aa5d-e5eaf1fe0793)
 
 
-[Bank_Analysis.1.odp](https:/![Uploading Slide3.jpg…]()
-/github.com/user-attachments/files/18566706/Bank_Analysis.1.odp)
+
